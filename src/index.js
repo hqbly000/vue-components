@@ -1,6 +1,6 @@
-import InputDialog from 'components/InputDialog'
+import List from 'components/list'
 
-const components = [InputDialog]
+const components = [List]
 
 const install = function (Vue) {
   components.forEach(component => {
