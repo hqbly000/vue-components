@@ -9,7 +9,7 @@
     "template",
     "component"
   ],
-  "author": "",
+  "author": "hqbly",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
